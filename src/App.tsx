@@ -1,6 +1,13 @@
+import * as C from "./Appstyled";
 export const App = ()=>{
+  
   return(
-    <div>Hello</div>
+    
+    <>
+    <C.header><h1>RGLP</h1>
+    </C.header>
+    
+    </>
   )
 }
 
