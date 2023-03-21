@@ -10,7 +10,7 @@ export const header = styled.header`
 
 export const container = styled.div`
     width: 1200px;
-    background-color: red;
+    
     margin: auto;
     display: flex;
 `;
