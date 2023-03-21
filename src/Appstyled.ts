@@ -7,3 +7,10 @@ export const header = styled.header`
     padding: 10px;
 
 `;
+
+export const container = styled.div`
+    width: 1200px;
+    background-color: red;
+    margin: auto;
+    display: flex;
+`;
